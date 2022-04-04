@@ -1,0 +1,11 @@
+name: week08-environment
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - geopandas
+  - matplotlib
+  - ipyleaflet
+  - pandas
+  - numpy
+  - bqplot

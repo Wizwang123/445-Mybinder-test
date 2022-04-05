@@ -10,4 +10,4 @@ dependencies:
   - numpy
   - bqplot
   - contextily
-  - import ipywidgets
+  - ipywidgets

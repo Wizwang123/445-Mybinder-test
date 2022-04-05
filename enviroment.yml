@@ -9,3 +9,5 @@ dependencies:
   - pandas
   - numpy
   - bqplot
+  - contextily
+  - import ipywidgets
